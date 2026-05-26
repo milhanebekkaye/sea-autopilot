@@ -1,11 +1,10 @@
 {
-  "name": "SEA Autopilot",
-  "description": "Analyse automatique des performances Google Ads, Meta Ads et WMS pour Walter Learning.",
+  "name": "sea-autopilot",
   "owner": { "name": "Walter Learning SEA" },
   "plugins": [
     {
       "name": "sea",
-      "source": ".",
+      "source": "./",
       "description": "Brief quotidien SEA avec recommandations actionnables."
     }
   ]

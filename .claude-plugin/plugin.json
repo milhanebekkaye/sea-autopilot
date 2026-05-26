@@ -1,0 +1,8 @@
+{
+  "name": "sea",
+  "description": "SEA Autopilot — Analyse automatique des performances Google Ads, Meta Ads et WMS. Génère un brief quotidien avec un plan d'actions priorisé.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Walter Learning — SEA"
+  }
+}
